@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-#copied from the lab3 - stanford university 
+#copied from the lab3 - John M Pauly @ Stanford university 
 
 from PIL import Image, ImageDraw, ImageFont
 import os, sys, gzip, math, argparse, colorsys, datetime
